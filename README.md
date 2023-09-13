@@ -1,7 +1,4 @@
-# eeeee
-
-# Name: Juniper Chien, Lefteri Kapnisakis, Wenjia Lu
-# Period 4
+# Project Info
 
 # We will find the area of a circle (and as additions other, more intresting shapes) using the monte carlo method, inscribing the shape in a square, picking random points, and seeing the ratio within the shape vs outside. That problem can be divided up into many smaller problems, by passing off sets of points to check to other computers.
 
